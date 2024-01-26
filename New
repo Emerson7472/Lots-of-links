@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+<head>  
+  <style>
+     .container {
+       border: 25px solid red;
+       padding: 60px;
+       margin: 50px;
+     }
+   </style>
+</head>
+<body>
+  
+<div class="container">
+  <a href="https://tiktok.com"</a>
+  <img src="https://fatimamartinez.es/wp-content/uploads/2022/03/LOGO-TIKTOK-png.png"
+    width="700" heigth="450"/>
+</div>
+
+<div class="container">
+  <a href="https://facebook.com"</a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"
+    width="690" heigth="800"/>
+</div>
+
+<div class="container">
+  <a href="https://claro.com"</a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Claro.svg"
+     width="700" heigth="450"/>
+  </div>
+
+<div class="container">
+    <a href="https://pinteres.com"</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png"
+     width="700" heigth="450"/>
+</div>
+  
+  <div class="container">
+    <a href="https://www.banreservas.com.do/TuBancoPersonas/Pages/UserRegistration/UsersRegistration_BanR_Step1.aspx"</a>
+    <img src="https://logosandtypes.com/wp-content/uploads/2023/02/banreservas.svg"
+      width="700" heigth="450"/>
+  </div>
+  
+  <div class="container">
+    <a href="https://teo-plus.softonic.com/android?ex=RAMP-1640.0"</a>
+    <img src="https://play-lh.googleusercontent.com/avIyCznmhxLjHvnhMg44lu_jGEjmRxgl8HGdq4zAQM6rP9b2VW6Lb5CVHFwxQJ78xaw"
+      width="700" heigth="450"/>
+  </div>
+  
+
+</body>
+</html>
